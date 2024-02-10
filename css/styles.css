@@ -14,13 +14,13 @@ footer{
     text-align: center;
 }
 
-#page-links a{
-    margin: 20px;
+footer a{
+    margin: 0 20px;
     color: green;
 }
 
 .croissant-photo{
-    max-width: 500px;
+    max-width: 100%;
     border-radius: 10px;
     display: block;
     margin: 30px auto;
